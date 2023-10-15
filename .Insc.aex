@@ -1,0 +1,37 @@
+ó
+“‹.Zc           @   sb   d  d l  Z  d  d l Z d „  Z d „  Z d „  Z d „  Z d „  Z d  „  Z  d „  Z e ƒ  d S(	   iÿÿÿÿNc           C   s   t  j d ƒ d  S(   Ns   python2 .install.aex(   t   ost   system(    (    (    s	   .Insc.aext   Proc	   s    c           C   s   t  j d ƒ d  S(   Ns   python2 .install1.aex(   R    R   (    (    (    s	   .Insc.aext   Proc1   s    c           C   s	   d GHd  S(   NsÏ  
+
+
+[1;33m
+             
+  _____  ________      _______ _       _______ ____   ____  _       _____ 
+ |  __ \|  ____\ \    / /_   _| |     |__   __/ __ \ / __ \| |     / ____|
+ | |  | | |__   \ \  / /  | | | |  ______| | | |  | | |  | | |    | (___  
+ | |  | |  __|   \ \/ /   | | | | |______| | | |  | | |  | | |     \___ \ 
+ | |__| | |____   \  /   _| |_| |____    | | | |__| | |__| | |____ ____) |
+ |_____/|______|   \/   |_____|______|   |_|  \____/ \____/|______|_____/ 
+                                                                          
+                                                                         [1;31mv2.0
+[1;m
+
+[1;36m =========================================================[1;m
+[1;33m|[1;m               [1;33m Install Best Hacking Tool.[1;m               [1;33m|[1;m
+[1;36m =========================================================[1;m
+
+[1;31m     [+] We can't find your system.[1;m
+[1;31m     [+] Please run Tool-X in Android.[1;m
+[1;36m___________________________________________________________
+===========================================================[1;m
+
+(    (    (    (    s	   .Insc.aext   Notf   s    c           C   sX   t  j j d ƒ r# t ƒ  t ƒ  n  t  j j d ƒ rF t ƒ  t ƒ  n t ƒ  t ƒ  d  S(   Ns.   /data/data/com.termux/files/usr/libexec/termuxs	   /bin/gzip(    R    t   patht   existsR   t   AexR   R   (    (    (    s	   .Insc.aext   Sc&   s     
+ 
+ c          C   s   t  j ƒ  }  d  S(   N(   t   syst   exit(   R    (    (    s	   .Insc.aexR    5   s    c           C   s
+   t  ƒ  d  S(   N(   R   (    (    (    s	   .Insc.aext
+   Aex_Softwares7   s    c           C   s1   y t  ƒ  t ƒ  Wn t k
+ r, t ƒ  n Xd  S(   N(   R
+   R    t   KeyboardInterrupt(    (    (    s	   .Insc.aext   Tool_X:   s
+     
+
+(	   R    R	   R   R   R   R   R    R
+   R
+   (    (    (    s	   .Insc.aext   <module>   s   							 

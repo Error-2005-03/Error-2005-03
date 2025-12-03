@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **nexarxz@gmail.com** For Collaboration/Project or Anything
 
 - 🔭 **I’m currently working on:** Discord Lava Music Bot
 - 🌱 **I’m currently learning:** Lavalink & Node.js
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** Discord Bot 
+- 👯 **I’m looking to collaborate on:** Discord Bot 
+- 🤔 **I’m looking for help with:** Lavalink 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** nexarxz@gmail.com
 - 😄 **Pronouns:** Error.03.2005
